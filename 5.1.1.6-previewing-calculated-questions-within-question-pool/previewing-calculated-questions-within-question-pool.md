@@ -2,13 +2,13 @@
 
 ## Adding solution link
 
+Link "Solution" (i18n) only added to Calculated Questions
+
 ![Screenshot 1 of adding solution link](screenshots/a.1-adding-solution-link.png)
 
 ## Showing solution of calculated question
 
-![Screenshot 1 of showing solution of calculated-question](screenshots/a.2-showing-solution-of-calculated-question-a.png)
+Another solution button to genereate another exercise and solutions.
+Correct Feedback should be calculated. See S2U-10
 
-Optional "Another solutio" button?
-
-![Screenshot 1 of showing solution of calculated-question](screenshots/a.3-showing-solution-of-calculated-question-b.png)
-
+![Screenshot 1 of showing solution of calculated-question](screenshots/a.2-showing-solution-of-calculated-question.png)
